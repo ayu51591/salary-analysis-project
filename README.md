@@ -39,4 +39,8 @@ Students aiming for higher salaries should focus on developing skills required f
 ---
 
 ## GitHub Link
-(Add this after uploading everything)
+https://github.com/ayu51591/salary-analysis-project.git
+
+---
+## Dataset Note
+This dataset is used for educational purposes and may contain synthetic values.
