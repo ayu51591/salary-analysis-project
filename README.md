@@ -14,7 +14,7 @@ To analyse how job role, experience, and industry influence salary in data-relat
 ## Tools Used
 - SQL (data querying and aggregation)  
 - Excel (data analysis and pivot tables)  
-
+- SQL Server Management Studio (SSMS)
 ---
 
 ## Key Insights
