@@ -44,3 +44,6 @@ https://github.com/ayu51591/salary-analysis-project.git
 ---
 ## Dataset Note
 This dataset is used for educational purposes and may contain synthetic values.
+
+## Note on Excel Analysis
+Excel-based analysis was initially attempted; however, due to performance limitations with large data processing, the primary analysis was conducted using SQL for better efficiency and scalability.
